@@ -1,7 +1,5 @@
 <p align="center"><a href="https://github.com/ahmadsodik4717"><img width="100%" alt="Hello, I'm Anurag. I do open source!" src="./assets/header1.png" /></a></p>
 
-<br />
-
 ## Hello buddy 👋
 
 -  My name is Ahmad Sodik
