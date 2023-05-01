@@ -10,13 +10,13 @@
 # 📊 GitHub Stats:
 <p align="left">
   <a href="https://github.com/ahmadsodik4717">
-    <img height="231em" src="https://github-readme-stats.vercel.app/api?username=ahmadsodik4717&show_icons=true&cache_seconds=86400&theme=yeblu"/>
-    <img height="231em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsodik4717&show_icons=true&cache_seconds=86400&theme=yeblu"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ahmadsodik4717&show_icons=true&cache_seconds=86400&theme=yeblu"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsodik4717&show_icons=true&cache_seconds=86400&theme=yeblu"/>
   </a>
 </p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ahmadsodik4717/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmadsodik4717/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ahmadsodik4717) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmadsodik4717/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadsodik4717/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ahmadsodik4717) 
 
 # 💻 Tech Stack:
 <div style="display: inline_block">
