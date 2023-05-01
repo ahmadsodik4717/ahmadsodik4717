@@ -10,8 +10,8 @@
 # 📊 GitHub Stats:
 <p align="left">
   <a href="https://github.com/ahmadsodik4717">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ahmadsodik4717&show_icons=true&cache_seconds=86400&theme=yeblu"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsodik4717&show_icons=true&cache_seconds=86400&theme=yeblu"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ahmadsodik4717&show_icons=true&cache_seconds=86400&theme=yeblu"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsodik4717&show_icons=true&cache_seconds=86400&theme=yeblu"/>
   </a>
 </p>
 
