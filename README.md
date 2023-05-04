@@ -27,7 +27,7 @@
 </div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmadsodik4717&limit=5&cache_seconds=86400&theme=yeblu&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ahmadsodik4717&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
