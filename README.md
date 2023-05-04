@@ -12,8 +12,8 @@
 # 📊 GitHub Stats:
 <p align="left">
   <a href="https://github.com/ahmadsodik4717">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadsodik4717&show_icons=true&cache_seconds=86400&theme=yeblu&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadsodik4717&layout=compact&langs_count=8&cache_seconds=86400&theme=yeblu"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadsodik4717&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadsodik4717&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
 
