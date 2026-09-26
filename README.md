@@ -9,14 +9,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🔭 I'm currently working on **kdmp-mesuji-jaya**
-- 🌱 I'm currently learning **React**
-- 📫 How to reach me: **ahmadsodik0105@gmail.com**
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="center">
